@@ -13,12 +13,12 @@
 <p align="left">
 <a href="https://dev.to/jatinkevlani01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="JatinKevlani" height="30" width="40" /></a>
 <a href="https://x.com/jxttiinnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="JatinKevlani" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jatinkevlani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jatinkevlani" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jatinkevlani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="JatinKevlani" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22410830/jatin-kevlani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="JatinKevlani" height="30" width="40" /></a>
-<a href="https://codesandbox.io/u/jatinkevlani01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="jatinkevlani" height="30" width="40" /></a>
-<a href="https://instagram.com/jxttiinnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jxttiinnn" height="30" width="40" /></a>
+<a href="https://codesandbox.io/u/jatinkevlani01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="JatinKevlani" height="30" width="40" /></a>
+<a href="https://instagram.com/jxttiinnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="JatinKevlani" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/jatinkevaeex/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="JatinKevlani" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JatinKevlani" height="30" width="40" /></a>
+<a href="https://discord.gg/d3nResFa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JatinKevlani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
