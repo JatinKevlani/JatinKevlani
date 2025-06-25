@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jatin Kevlani</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate backend developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JatinKevlani" alt="JatinKevlani" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJS, ExpressJS, NodeJS, MongoDB**
 
-- 💬 Ask me about **CSS, Bootstrap, JS, ES6, MySQL, PHP**
+- 💬 Ask me about **CSS, Bootstrap, JS, MySQL, PHP**
 
 - 📫 How to reach me **jatinkevlani01@gmail.com**
 
